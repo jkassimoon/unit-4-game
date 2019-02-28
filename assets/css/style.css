@@ -1,0 +1,13 @@
+body {
+    background-color: bisque;
+    text-align: center;
+    font-size:150%;
+}
+
+img {
+    width:100px;
+}
+
+#divBox {
+    margin-top:50px;
+}
